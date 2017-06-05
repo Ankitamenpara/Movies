@@ -118,5 +118,3 @@ fs.readFile('movies.dat', 'utf8', function(err, data) {
     }
 });
 
-
-
